@@ -19,7 +19,7 @@ ___
 
 ![image](https://user-images.githubusercontent.com/59879362/114331901-4aaca380-9b02-11eb-9e65-601245bb6772.png)
 
-6 - Download the "Automation Test" Project from GitHub as .zip file.
+6 - Download the "Focus Challenge" Project from GitHub as .zip file.
 
 7 - Import the project as "Existing Maven Project" into eclipse IDE..
 
@@ -39,6 +39,10 @@ ___
     - okio-1.14.0.jar
   - Once done, click "Apply and Close" button.
 
+9 - Download Chrome for testing and the chrome driver using the following link.
+    - https://googlechromelabs.github.io/chrome-for-testing/
+    
+10- Once dowloaded add the both files to the drivers folder of the project.
    
 9- Finally the process in completed!!!!! Run the project and hope that everything works as expected....     
  
